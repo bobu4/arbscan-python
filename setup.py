@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name="bscscan-python",
+    name="arbscan-python",
     version="2.0.0",
-    description="A python API for bscscan.com.",
+    description="A python API for arbscan.io.",
     url="https://github.com/pcko1/bscscan-python",
     author="Panagiotis-Christos Kotsias",
     author_email="kotsias.pan@gmail.com",
