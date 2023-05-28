@@ -3,7 +3,7 @@ from bscscan.core.base import BaseClient
 from bscscan.core.sync_client import SyncClient
 
 
-class BscScan:
+class ArbScan:
     """Client factory."""
 
     def __new__(cls, api_key: str, asynchronous=True, debug=False) -> BaseClient:
